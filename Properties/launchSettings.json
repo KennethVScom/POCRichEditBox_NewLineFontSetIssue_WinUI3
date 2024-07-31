@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "POCRichEditBox_NewLineFontSetIssue_WinUI3 (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "POCRichEditBox_NewLineFontSetIssue_WinUI3 (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
